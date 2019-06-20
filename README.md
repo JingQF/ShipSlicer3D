@@ -23,7 +23,7 @@ If this program offered help to your research, plear refer the paper above.[Pape
 Figure...
 
 ## Database Instruction
-1. The STL model is constructed based on the .iges model of KVLCC2, KCS, and DTMB5415 from [SIMMAN 2014](https://simman2014.dk/).
+1. The STL model is constructed based on the .igs model of KVLCC2, KCS, and DTMB5415 from [SIMMAN 2014](https://simman2014.dk/).
 2. The sample database is obtained from the STL models above using the proposed program.
 3. The database consists of three direction (x,y,z) of slice data of the ships.
 4. Each direction of folder is consists of detailed data under difference slice number.
