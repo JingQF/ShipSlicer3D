@@ -29,9 +29,11 @@ Figure...
 4. Each direction of folder is consists of detailed data under difference slice number.
 5. data name rules: xxx_xxx_xxx
 
-### Cautions
+## Cautions
 1. The STL model used in the program must be a closed one. It is prfered to repaired the STL model in software such as Netfabb before you using the slicing program.
 2. This program is aim to conduct research on ship motion simulation and validation. It is not complete in function, so the stability is not ensured under any kind of commerical usage.
 
-### Sample Video 
+## Sample Video and figures
 video of slice a ship STL
+
+figures in matlab
